@@ -1,0 +1,102 @@
+.logo {
+  display: block;
+  margin: spacing(1.5, 0);
+  position: relative;
+  text-align: center;
+  img {
+    max-width: 64px;
+    width: 100%
+  }
+}
+
+.menu {
+  margin: 0 auto;
+  @include shade;
+  padding: spacing(0.5);
+  border-radius: $rounded-big;
+  width: 80px;
+  .theme--dark & {
+    @include bg-color-darken($palette-primary-dark, 0.5)
+  }
+  .theme--light & {
+    @include bg-color-lighten($palette-primary-light, 0.5)
+  }
+  &:before {
+    border-radius: $rounded-big;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.icon {
+  display: block;
+  min-width: 0;
+  margin: 0 auto !important;
+  width: 100%;
+  transition: all 0.3s ease-in;
+  span {
+    font-size: 36px;
+    @include use-theme(background-image, linear-gradient(120deg, $palette-secondary-main, $palette-primary-main), linear-gradient(120deg, $palette-secondary-light, $palette-primary-main));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+  }
+}
+
+.text {
+  transition: all 0.3s cubic-bezier(0, 1.73, 1, 1.02);
+  position: relative;
+  color: $palette-common-white;
+  visibility: hidden;
+  position: absolute;
+  left: -4px;
+  background: rgba(0, 0, 0, 0.8);
+  text-transform: capitalize;
+  border-radius: $rounded-medium;
+  padding: spacing(2, 2, 2, 7);
+  z-index: 2;
+  white-space: nowrap;
+  opacity: 0;
+  font-size: 18px;
+  font-weight: $font-bold;
+}
+
+.link {
+  background: none !important;
+  text-align: center;
+  border-radius: $rounded-medium;
+  padding: 5px 6px;
+  margin-bottom: 0 !important;
+  &:before {
+    content: "";
+    background: linear-gradient(120deg, $palette-secondary-main, $palette-primary-main);
+    transition: all 0.75s ease-out;
+    opacity: 0;
+    position: absolute;
+    width: 0;
+    height: 30px;
+    border-radius: 7px; 
+    @include left(-4px);
+    top: 20px;
+  }
+  &:hover {
+    &:before {
+      width: 7px;
+      opacity: 1;
+    }
+    .icon {
+      z-index: 3;
+      span {
+        color: $palette-common-white;
+        background: transparent;
+        -webkit-text-fill-color: currentColor;
+      }
+    }
+    .text {
+      visibility: visible;
+      opacity: 1;
+      @include left($spacing1)
+    }
+  }
+}

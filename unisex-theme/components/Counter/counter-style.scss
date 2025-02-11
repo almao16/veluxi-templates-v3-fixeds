@@ -1,0 +1,52 @@
+#watched_counter {
+  position: relative;
+  top: -400px
+}
+
+.counter-wrap {
+  border-radius: $rounded-big;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(120deg, $palette-secondary-main, $palette-primary-main);
+  padding: spacing(5, 0);
+  &:before {
+    @include use-theme(background, #eeeeee, $light-text-secondary);
+    content: "";
+    border-radius: $rounded-big;
+    position: absolute;
+    width: calc(100% - 2px);
+    height: calc(100% - 2px);
+    left: 1px;
+    top: 1px;
+  }
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  @include breakpoints-down(sm) {
+    justify-content: center
+  }
+}
+
+.counter-item {
+  position: relative;
+  z-index: 1;
+  h6 {
+    white-space: nowrap
+  }
+  @include breakpoints-up(sm) {
+    @include padding-left($spacing2)
+  }
+  @include breakpoints-down(sm) {
+    text-align: center
+  }
+  i {
+    background: linear-gradient(120deg, $palette-secondary-main, $palette-primary-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    @include margin-right($spacing2);
+    font-size: 64px;
+    line-height: 40px
+  }
+}

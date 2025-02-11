@@ -1,0 +1,212 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52b80ccc"
+  },
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_5b658cd0"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a246dc30"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52b80ccc"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52b80ccc"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bf68c69e"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52b80ccc"
+  },
+  {
+    "name": "register___en",
+    "path": "/register",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7d60728b"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52b80ccc"
+  },
+  {
+    "name": "blank-page___ar",
+    "path": "/ar/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_5b658cd0"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a246dc30"
+  },
+  {
+    "name": "login___ar",
+    "path": "/ar/login",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bf68c69e"
+  },
+  {
+    "name": "register___ar",
+    "path": "/ar/register",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7d60728b"
+  },
+  {
+    "name": "blank-page___de",
+    "path": "/de/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_5b658cd0"
+  },
+  {
+    "name": "contact___de",
+    "path": "/de/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a246dc30"
+  },
+  {
+    "name": "login___de",
+    "path": "/de/login",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bf68c69e"
+  },
+  {
+    "name": "register___de",
+    "path": "/de/register",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7d60728b"
+  },
+  {
+    "name": "blank-page___id",
+    "path": "/id/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_5b658cd0"
+  },
+  {
+    "name": "contact___id",
+    "path": "/id/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a246dc30"
+  },
+  {
+    "name": "login___id",
+    "path": "/id/login",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bf68c69e"
+  },
+  {
+    "name": "register___id",
+    "path": "/id/register",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7d60728b"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_5b658cd0"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a246dc30"
+  },
+  {
+    "name": "login___pt",
+    "path": "/pt/login",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bf68c69e"
+  },
+  {
+    "name": "register___pt",
+    "path": "/pt/register",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7d60728b"
+  },
+  {
+    "name": "blank-page___zh",
+    "path": "/zh/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_5b658cd0"
+  },
+  {
+    "name": "contact___zh",
+    "path": "/zh/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a246dc30"
+  },
+  {
+    "name": "login___zh",
+    "path": "/zh/login",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bf68c69e"
+  },
+  {
+    "name": "register___zh",
+    "path": "/zh/register",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7d60728b"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\crypto-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52b80ccc"
+  }
+]

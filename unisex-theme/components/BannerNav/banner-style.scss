@@ -1,0 +1,108 @@
+.root {
+  display: block;
+  @include breakpoints-down(md) {
+    padding-top: $spacing10;
+    > .container {
+      padding: 0 !important
+    }
+  }
+}
+
+.cover {
+  position: absolute;
+  clip: rect(auto,auto, auto, auto);
+  top: 0;
+  @include left(0);
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.figure {
+  display: block;
+  width: 100%;
+  height: 100%;
+  .img {
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+.banner {
+  position: relative;
+  padding: spacing(10, 3, 0);
+  color: $palette-common-white;
+  height: 500px;
+  border-radius: $rounded-big;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  @include breakpoints-down(sm) {
+    height: 420px;
+  }
+  @include breakpoints-down(xs) {
+    height: 400px;
+    padding: spacing(2, 3, 0);
+    align-items: flex-start
+  }
+  @include breakpoints-up(sm) {
+    padding: $spacing5
+  }
+}
+
+.text {
+  max-width: 800px;
+  z-index: 1;
+  overflow: hidden;
+  border-radius: $rounded-big;
+  padding: $spacing5;
+  @include bg-color-fade(linear-gradient(120deg, $palette-secondary-main, $palette-primary-main), 70%);
+  backdrop-filter: saturate(180%) blur(10px);
+  & > * {
+    position: relative;
+    z-index: 1;
+  }
+  @include breakpoints-down(sm) {
+    text-align: center;
+    margin: 0 auto;
+  }
+  h4, h2, h5 {
+    margin-bottom: $spacing1
+  }
+}
+
+.socmed {
+  button {
+    margin: $spacing1;
+    color: $palette-primary-dark;
+    width: 36px;
+    height: 36px;
+    i {
+      color: rgba(255, 255, 255, 0.75)
+    }
+  }
+  i {
+    font-size: 24px
+  }
+}
+
+.setting-icon {
+  position: absolute;
+  top: $spacing10;
+  @include right($spacing10);
+  ::v-deep .v-icon {
+    color: $palette-common-white !important
+  }
+}
+
+.download {
+  font-size: 14px;
+  padding: spacing(0.5, 2);
+  margin-right: $spacing3;
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_534cce44"
+  },
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_a9364fe8"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d0b11fa8"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_534cce44"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_534cce44"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_534cce44"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_534cce44"
+  },
+  {
+    "name": "blank-page___ar",
+    "path": "/ar/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_a9364fe8"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d0b11fa8"
+  },
+  {
+    "name": "blank-page___de",
+    "path": "/de/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_a9364fe8"
+  },
+  {
+    "name": "contact___de",
+    "path": "/de/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d0b11fa8"
+  },
+  {
+    "name": "blank-page___id",
+    "path": "/id/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_a9364fe8"
+  },
+  {
+    "name": "contact___id",
+    "path": "/id/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d0b11fa8"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_a9364fe8"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d0b11fa8"
+  },
+  {
+    "name": "blank-page___zh",
+    "path": "/zh/blank-page",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_a9364fe8"
+  },
+  {
+    "name": "contact___zh",
+    "path": "/zh/contact",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d0b11fa8"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\Plantillas\\\\veluxi_v3\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_534cce44"
+  }
+]
